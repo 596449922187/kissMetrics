@@ -1,0 +1,7 @@
+.content{
+    position: absolute;
+    width: 100vw;
+    background-color: red;
+    padding: 10vh;
+    height: 100vh !important;
+}
